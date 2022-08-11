@@ -1,42 +1,35 @@
 ![home page](adminpacientes-screenshot.png)
-![favorite page](fav.png)
 
 # Título del Proyecto
 
-Frontend HackerNews-Challenge
+Administrador de Pacientes de Veterinaria
 
 ## Description
 
-Prueba técnica desarrollada con React v18.2.0 que consiste en maquetar un diseño proveído por la página https://zeplin.io/.
-Se utilizó la API Hackers News Public. Link de la API: https://hn.algolia.com/api.
+Aplicación desarrollada con React para realizar operaciones CRUD sobre pacientes.
+Utiliza Tailwind para los estilos.
 Funcionalidades:
-1-El filtro seleccionado persiste en el localstorage.
-2-Las publicaciones favoritas persisten en el localstorage.
-3-Responsive Web Design.
-4- Paginador para la pagina principal y la página de favoritos.
-5- Al hacer clic sobre un post, se abre una nueva pestaña y se navega a su enlace.
-6- Al hacer clic sobre el botón "Me gusta" no se activa la apertura del enlace.
-7- Al pasar el cursor sobre un post, se aplica opacidad a todo el post y sus elementos secundarios.
+1-Agregar paciente.
+2-Validar paciente.
+3-Los pacientes agregados persisten en el localstorage.
+4-Eliminar pacientes.
+5-Editar pacientes.
+6-Se utiliza el mismo formulario para agregar y editar pacientes.
 
 ## Getting Started
 
 ### Dependencies
 
-- normalize.css": "^8.0.1
-- react": "^18.2.0
-- react-dom": "^18.2.0
-- react-router-dom": "6"
-- react-spinners": "^0.13.4"
+"react": "^17.0.2",
+"react-dom": "^17.0.2"
 
 ### Installing
 
 - npm install
-- yarn install
 
 ### Executing program
 
 - npm run dev
-- yarn dev
 
 ## Authors
 
