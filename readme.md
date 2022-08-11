@@ -36,3 +36,4 @@ react-dom: ^17.0.2
 
 - Eduardo Daniel Viana
 - Email: eduardoviana83@gmail.com
+- Url: [direccion del sitio](https://eduviana.github.io/Administrador-de-Pacientes/)
